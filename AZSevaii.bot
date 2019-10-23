@@ -1,0 +1,18 @@
+{
+    "name": "AZSevaii",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:3978/api/messages",
+            "id": "8eaafb70-f55b-11e9-8dd0-e55ada9e0ad3",
+            "name": "http://localhost:3978/api/messages"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "overrides": null,
+    "path": "C:\\Users\\KWNC665\\Box Sync\\Gits\\AZSevaii\\AZSevaii.bot"
+}
